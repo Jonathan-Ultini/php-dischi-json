@@ -6,3 +6,18 @@
 body {
   background-color: #1D2D3C;
 }
+
+.card {
+  background-color: #10202F;
+}
+
+.card-img-top {
+  width: 200px;
+  height: 200px;
+  padding: 10px 10px;
+  margin: auto;
+}
+
+.modal-content {
+  background-color: #1D2D3C;
+}
